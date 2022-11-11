@@ -9,7 +9,7 @@
 	
 	@Override
 	public List<String> getAliases() {
-		return Arrays.asList("soylaurensdev", "Mi Nombre");
+		return Arrays.asList("soylaurensdev", "Mi Nombre", "Soy creador de oiishibot");
 	}
 
         public Laurens() {
