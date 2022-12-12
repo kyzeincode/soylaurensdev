@@ -1,6 +1,6 @@
-  [![NIBY WALLPAPER](https://i.imgur.com/9Bk43XP.png)](https://www.youtube.com/channel/UCFEt74PJAXUKBBWyVFZaCrw) 
+ *!*-- [![NIBY WALLPAPER](https://i.imgur.com/9Bk43XP.png)](https://www.youtube.com/channel/UCFEt74PJAXUKBBWyVFZaCrw) 
 <p>
-  <h1 align="center"><b>Hola!, Soy Dewstouh👋</b></h1>
+  <h1 align="center"><b>Hola!, Soy Kyze👋</b></h1>
 </p>
 
 ***
@@ -26,7 +26,7 @@
 - 👯 Buscando colaborar con otros desarolladores :wink:
 - 🥅 2022 Metas: Back End Developer
 - 💬 Preguntame lo que quieras :smile:
-- 📬 Contacta conmigo: [Discord | El Mundo de Niby](https://discord.gg/MBPsvcphGf)
+- 📬 Contacta conmigo: [Discord | IztelX Studios](https://discord.gg/MBPsvcphGf)
 - 🧗 Intento superar mis limites
 - 📹 También tengo experiencia en edición de video (VFX) con After Effects y Sony Vegas
 - 🖼 No solo he usado After Effects y Sony Vegas, si no que también se manejar Adobe Photoshop! (GFX) 😎
